@@ -99,7 +99,7 @@ call-center-analytics/
 5. If values look stale, use **Data → Refresh All**.
 
 ```bash
-git clone https://github.com/<your-username>/call-center-analytics.git
+git clone https://github.com/afnannadaf0-eng/call-center-analytics.git
 ```
 
 ## 🛠 Tools & Skills
@@ -119,7 +119,7 @@ git clone https://github.com/<your-username>/call-center-analytics.git
 > Figures are computed from the workbook's 2023 data.
 
 ## 👤 Author
-**YOUR NAME**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Muhammad Afnan Nadaf**
+[LinkedIn](https://www.linkedin.com/in/muhammad-afnan-nadaf-195a24381) · [GitHub](https://github.com/afnannadaf0-eng)
 
 ⭐ If you found this useful, consider starring the repo.
