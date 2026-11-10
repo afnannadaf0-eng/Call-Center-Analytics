@@ -1,4 +1,3 @@
-[data-dictionary.md](https://github.com/user-attachments/files/34624109/data-dictionary.md)
 # Data Dictionary
 
 Describes every table, column and KPI in `data/Call-Center-Analytics-Dashboard.xlsx`.
